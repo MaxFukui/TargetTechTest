@@ -54,7 +54,7 @@ def isFibonacci(number):
 
 ### 4
 
-Para responder essa pergunta, gostaria de deixar evidente a formulação da pergunta:
+Para responder essa pergunta, gostaria de deixar evidente a formulação dela:
 
 > Quando eles se **cruzarem** na rodovia, **qual** estará mais próximo a cidade de Ribeirão Preto?  
 
@@ -65,7 +65,7 @@ Reposta:
   
 ### 5 
 
-> Código 
+> Código (desenvolvido em Python)
 
 ```
 def reverteString(texto):
